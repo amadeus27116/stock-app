@@ -1,11 +1,9 @@
 # TODO
 
 ## In Progress
-- [ ] Set up a React project
-- [ ] Set up a folder structure
+- [ ] Get chart working with dummy data
 
 ## Up Next
-- [ ] Get chart working with dummy data
 - [ ] Connect to API
 - [ ] Replace dummy data with real API data
 - [ ] Set up pattern detection
@@ -20,3 +18,5 @@
 - [ ] Deployment
 
 ## Done
+- [x] Set up a React project
+- [x] Set up a folder structure

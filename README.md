@@ -4,7 +4,7 @@ A full-stack stock analysis tool that fetches real-time market data and renders 
 
 ## Tech Stack
 
-- Frontend: React
+- Frontend: React + Vite
 - Backend: Node.js + Express
 - Database: PostgreSQL
 - Stock API:
